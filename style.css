@@ -63,7 +63,7 @@ div h2{
     display: flex;
     width:500%;
     height:100%;
-    animation: slideshow 40s linear infinite;
+    animation: slideshow 20s linear infinite;
 }
 .caroimg img{
     width:16.66%;
@@ -76,7 +76,7 @@ div h2{
         transform:translateX(0)
         }
         to{
-            transform: translateX(-50%);
+            transform: translateX(-80%);
         }
     /* 0%{
         transform :translateX(0%)
